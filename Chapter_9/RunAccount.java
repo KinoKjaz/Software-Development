@@ -1,6 +1,6 @@
 /*
 Auther: Damion Shakespear
-Date Creaated: 4/1/2025
+Date Created: 4/1/2025
 
 This assignment is to Create Program to:
 Make an Account with an ID of 1122, a balance of $20,000, and an annual interest rate of 4.5%.

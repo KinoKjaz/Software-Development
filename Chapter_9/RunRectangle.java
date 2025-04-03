@@ -1,6 +1,6 @@
 /*
 Auther: Damion Shakespear
-Date Creaated: 4/1/2025
+Date Created: 4/1/2025
 
 This assignment is for a Rectangle class, to get the Area and Perimeter from the given width and hight.
  */

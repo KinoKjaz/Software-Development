@@ -1,6 +1,6 @@
 /*
 Auther: Damion Shakespear
-Date Creaated: 4/1/2025
+Date Created: 4/1/2025
 
 This assignment is to make an account class that calculates the balance, Interest Rates, and Withdraws/Deposits.
  */
