@@ -1,2 +1,34 @@
-.DS_Store
+# Exclude Java class files
 *.class
+
+# VSCode-specific files
+.vscode/
+
+# Java compiler output folder
+/bin/
+/build/
+/out/
+
+# IntelliJ IDEA folders (if applicable)
+.idea/
+*.iml
+
+# Mac OS-specific files
+.DS_Store
+
+# Gradle-related files
+.gradle/
+/build/
+
+# Maven-related files
+target/
+
+# Log files
+*.log
+
+# JavaFX-specific temporary files (if any)
+hs_err_pid*.log
+
+# Any other unnecessary OS or editor-specific files
+Thumbs.db
+*.swp
